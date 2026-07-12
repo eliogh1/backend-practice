@@ -73,6 +73,9 @@ def number_pattern(n):
     
     return result
 
-print(number_pattern("lol"))        
+print(number_pattern("lol")) 
+
+
+#ok lets work with dictionary and sets now        
     
     
