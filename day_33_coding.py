@@ -24,4 +24,4 @@ def phone_book():
     people_I_know.pop("mom")
     print(people_I_know)
     
-phone_book()
+

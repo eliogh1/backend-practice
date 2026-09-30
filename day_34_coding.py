@@ -115,7 +115,7 @@ def first_occurance():
     
     print(numbers.index(7))
     
-first_occurance()
+
 
 #number 11: Safe search: Ask the user for an animal. Print its index if it exists; otherwise, print "Animal not found".
 # animals = ("cat", "dog", "rabbit", "bird")
@@ -132,7 +132,16 @@ def safe_search():
     else:
         print("animal not found")
         
-safe_search()
+# number 12: Search from a position: Use index(value, start) to find the next occurrence of "red" after index 0:
+# colors = ("red", "blue", "green", "red", "yellow", "red")
+
+
+
+
+        
+
+
+
     
     
     
